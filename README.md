@@ -1,6 +1,6 @@
 # Antioch, a Theme for WordPress
 
-This is a theme for WordPress. It's meant for the Geek Partnership Society.
+This is a theme for WordPress. It's also a Docker WordPress theme development workflow template.
 
 ## Development
 

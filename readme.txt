@@ -13,7 +13,7 @@ A theme based on Underscores called Antioch.
 
 == Description ==
 
-A theme created for the Geek Partnership Society.
+A theme created partially as a theme development workflow template.
 
 == Installation ==
 
